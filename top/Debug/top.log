@@ -1,0 +1,9 @@
+﻿  top.cpp
+C:\Users\amrahmed\source\repos\top\top.cpp(23,2): error C2601: 'isEmpty': local function definitions are illegal
+C:\Users\amrahmed\source\repos\top\top.cpp(14): message : this line contains a '{' which has not yet been matched
+C:\Users\amrahmed\source\repos\top\top.cpp(30,2): error C2601: 'pop': local function definitions are illegal
+C:\Users\amrahmed\source\repos\top\top.cpp(14): message : this line contains a '{' which has not yet been matched
+C:\Users\amrahmed\source\repos\top\top.cpp(40,11): error C2562: 'push': 'void' function returning a value
+C:\Users\amrahmed\source\repos\top\top.cpp(13): message : see declaration of 'push'
+C:\Users\amrahmed\source\repos\top\top.cpp(27,11): error C2065: 'False': undeclared identifier
+C:\Users\amrahmed\source\repos\top\top.cpp(31,7): error C3861: 'isEmpty': identifier not found

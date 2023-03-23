@@ -1,0 +1,6 @@
+C:\Users\amrahmed\source\repos\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\amrahmed\source\repos\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\amrahmed\source\repos\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\amrahmed\source\repos\WindowsService1\obj\Debug\WindowsService1.csprojAssemblyReference.cache
+C:\Users\amrahmed\source\repos\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\amrahmed\source\repos\WindowsService1\obj\Debug\WindowsService1.pdb
