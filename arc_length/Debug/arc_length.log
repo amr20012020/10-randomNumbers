@@ -1,0 +1,5 @@
+﻿  arc_length.cpp
+C:\Users\amrahmed\source\repos\arc_length\arc_length.cpp(17,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\amrahmed\source\repos\arc_length\arc_length.cpp(21,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\amrahmed\source\repos\arc_length\arc_length.cpp(7,6): warning C4101: 'i': unreferenced local variable
+  arc_length.vcxproj -> C:\Users\amrahmed\source\repos\arc_length\Debug\arc_length.exe

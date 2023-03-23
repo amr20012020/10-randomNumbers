@@ -1,0 +1,10 @@
+C:\Users\amrahmed\source\repos\Binary file\bin\Debug\Binary file.exe.config
+C:\Users\amrahmed\source\repos\Binary file\bin\Debug\Binary file.exe
+C:\Users\amrahmed\source\repos\Binary file\bin\Debug\Binary file.pdb
+C:\Users\amrahmed\source\repos\Binary file\obj\Debug\Binary file.csprojAssemblyReference.cache
+C:\Users\amrahmed\source\repos\Binary file\obj\Debug\Binary_file.Form1.resources
+C:\Users\amrahmed\source\repos\Binary file\obj\Debug\Binary_file.Properties.Resources.resources
+C:\Users\amrahmed\source\repos\Binary file\obj\Debug\Binary file.csproj.GenerateResource.cache
+C:\Users\amrahmed\source\repos\Binary file\obj\Debug\Binary file.csproj.CoreCompileInputs.cache
+C:\Users\amrahmed\source\repos\Binary file\obj\Debug\Binary file.exe
+C:\Users\amrahmed\source\repos\Binary file\obj\Debug\Binary file.pdb

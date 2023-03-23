@@ -1,0 +1,5 @@
+﻿  Human Resource Managment Program.cpp
+C:\Users\amrahmed\source\repos\Calculator\Human Resource Managment Program.cpp(57,6): warning C4101: 'x': unreferenced local variable
+  Source.cpp
+  Generating Code...
+C:\Users\amrahmed\source\repos\Calculator\Human Resource Managment Program.cpp(76): error C4700: uninitialized local variable 'redo' used
