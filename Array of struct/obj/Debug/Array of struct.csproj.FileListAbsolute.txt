@@ -1,0 +1,10 @@
+C:\Users\amrahmed\source\repos\Array of struct\bin\Debug\Array of struct.exe.config
+C:\Users\amrahmed\source\repos\Array of struct\bin\Debug\Array of struct.exe
+C:\Users\amrahmed\source\repos\Array of struct\bin\Debug\Array of struct.pdb
+C:\Users\amrahmed\source\repos\Array of struct\obj\Debug\Array of struct.csprojAssemblyReference.cache
+C:\Users\amrahmed\source\repos\Array of struct\obj\Debug\Array_of_struct.Form1.resources
+C:\Users\amrahmed\source\repos\Array of struct\obj\Debug\Array_of_struct.Properties.Resources.resources
+C:\Users\amrahmed\source\repos\Array of struct\obj\Debug\Array of struct.csproj.GenerateResource.cache
+C:\Users\amrahmed\source\repos\Array of struct\obj\Debug\Array of struct.csproj.CoreCompileInputs.cache
+C:\Users\amrahmed\source\repos\Array of struct\obj\Debug\Array of struct.exe
+C:\Users\amrahmed\source\repos\Array of struct\obj\Debug\Array of struct.pdb

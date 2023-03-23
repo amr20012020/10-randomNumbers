@@ -1,0 +1,2 @@
+C:\Users\amrahmed\source\repos\account\Debug\account.exe
+C:\Users\amrahmed\source\repos\account\Debug\account.pdb

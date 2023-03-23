@@ -1,0 +1,3 @@
+﻿  a.cpp
+C:\Users\amrahmed\source\repos\a\a.cpp(5,6): warning C4101: 'x': unreferenced local variable
+  a.vcxproj -> C:\Users\amrahmed\source\repos\a\Debug\a.exe

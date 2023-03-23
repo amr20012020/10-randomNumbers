@@ -1,0 +1,10 @@
+C:\Users\amrahmed\source\repos\Array of student\bin\Debug\Array of student.exe.config
+C:\Users\amrahmed\source\repos\Array of student\bin\Debug\Array of student.exe
+C:\Users\amrahmed\source\repos\Array of student\bin\Debug\Array of student.pdb
+C:\Users\amrahmed\source\repos\Array of student\obj\Debug\Array of student.csprojAssemblyReference.cache
+C:\Users\amrahmed\source\repos\Array of student\obj\Debug\Array_of_student.Form1.resources
+C:\Users\amrahmed\source\repos\Array of student\obj\Debug\Array_of_student.Properties.Resources.resources
+C:\Users\amrahmed\source\repos\Array of student\obj\Debug\Array of student.csproj.GenerateResource.cache
+C:\Users\amrahmed\source\repos\Array of student\obj\Debug\Array of student.csproj.CoreCompileInputs.cache
+C:\Users\amrahmed\source\repos\Array of student\obj\Debug\Array of student.exe
+C:\Users\amrahmed\source\repos\Array of student\obj\Debug\Array of student.pdb
